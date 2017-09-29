@@ -150,4 +150,4 @@ After a few seconds, you should be able to see your site live in a browser by
 ## **Customizing the Basics**
 To customize the name of the blog, your name, your email, etc., open the file
   `_config.yml` in your favorite editor and change the relevant fields to your
-  liking....
+  liking.
