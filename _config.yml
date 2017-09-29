@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Taylor's TWDB Blog
+name: Taylor's TWDB Blog
 email: taylor.sansom@twdb.texas.gov
 description: >- # this means to ignore newlines until "baseurl:"
   This blog serves to chronicle my work as a Coastal Modeler for the Bays and
@@ -24,6 +25,14 @@ twitter_username: taylorsansom11
 github_username:  taylorsansom
 
 disqus: taylors-twdb-blog
+
+avatar: /images/twdb_logo.png
+
+footer-links:
+  twitter: taylorsansom11
+  github: taylorsansom
+  stackoverflow: /users/5115980/taylor
+  rss: rss
 
 # Build settings
 markdown: kramdown

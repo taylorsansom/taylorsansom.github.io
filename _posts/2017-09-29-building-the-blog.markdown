@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "First Post - Setting Up the Blog"
+title:  "Setting Up the Blog"
 date:   2017-09-29 09:53:38 -0500
 categories: jekyll github git setup
 ---
@@ -151,3 +151,9 @@ After a few seconds, you should be able to see your site live in a browser by
 To customize the name of the blog, your name, your email, etc., open the file
   `_config.yml` in your favorite editor and change the relevant fields to your
   liking.
+
+<br>
+
+---
+
+<br>
